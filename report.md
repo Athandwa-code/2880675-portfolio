@@ -1,0 +1,1 @@
+This lab taught me how to manage a clean Git workflow while ensuring semantic HTML structure, and I now feel confident about commiting, branching, and deploying mt first portfolio project.
